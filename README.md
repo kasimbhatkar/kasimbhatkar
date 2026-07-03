@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Aftab
 
-<!--
-**kasimbhatkar/kasimbhatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack JavaScript Developer passionate about building modern web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Redux Toolkit
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced JavaScript
+- System Design
+- Backend Architecture
+
+## 📫 Connect with Me
+- GitHub: https://github.com/kasimbhatkar
+- LinkedIn: https://linkedin.com/in/aftab-bhatkar-05a2aa269
+
+---
+⭐ Thanks for visiting my profile!
